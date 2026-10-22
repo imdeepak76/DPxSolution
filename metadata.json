@@ -1,0 +1,8 @@
+{
+  "name": "Remix DPxSOLUTION - School Management System",
+  "description": "Enterprise SaaS and EdTech School Management System featuring right-side 22-module drawer navigation, comprehensive academic ERP, fee POS, payroll, attendance, dynamic certificates, and analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
